@@ -6,7 +6,7 @@ type Game {
 }
 type Review {
     id: ID!
-    rating: int!
+    rating: Int!
     content: String!
 }
 type Author {
@@ -15,7 +15,7 @@ type Author {
     verified: Boolean!
 }
 
-type Querry{
+type Query{
     reviews: [Review]
     games: [Game]
     authors:[Author]
