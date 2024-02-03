@@ -1,4 +1,4 @@
-# GraphQL Learning Backend
+# GraphQL Backend
 
 This project was created for educational purposes, serving as a practical exploration of GraphQL concepts. It is not intended for production use.
 
